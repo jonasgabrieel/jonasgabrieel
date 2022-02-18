@@ -1,0 +1,13 @@
+#Faça um programa que calcule a área da superfície e o volume de um cilindro
+
+altura = float(input()) 
+raio = float (input())
+pi = 3.14
+
+volume_cilindro = pi * raio ** 2 * altura
+area_cilindro = 2 * pi * raio * altura + 2 * pi * raio ** 2
+
+
+
+print('%.2f' %volume_cilindro)
+print('%.2f' %area_cilindro)
