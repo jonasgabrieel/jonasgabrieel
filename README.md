@@ -29,7 +29,7 @@
   <img align="center" alt="Jonas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Jonas-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 </div>
-  
+
 ##
 <div> 
   <a href="https://instagram.com/jh0n_j0n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -47,5 +47,9 @@
   
   
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonasgabrieel&bg_color=05041b&color=9e4c98&line=1a067f&point=0b0a0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-          
+<div>
+ 
+ ## 👊Conquistas👊
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=jonasgabrieel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
