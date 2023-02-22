@@ -17,7 +17,9 @@ def ClassificaAluno (media,faltas):
 
 print(ClassificaAluno(media,faltas))
 
-#Faça um programa que leia quatro notas (valores reais) de um aluno, calcule sua média ponderada utilizando, respectivamente, os pesos 1, 2, 3 e 4 para cada nota e imprima uma mensagem dizendo se o aluno foi aprovado com louvor, aprovado, reprovado ou deverá fazer prova final. Na sua solução utilize uma função chamada AnalisarSituacao
+#Faça um programa que leia quatro notas (valores reais) de um aluno, calcule sua média ponderada utilizando, respectivamente, os pesos 1, 2, 3 e 4 para cada nota e 
+#imprima uma mensagem dizendo se o aluno foi aprovado com louvor, aprovado, reprovado ou deverá fazer prova final. Na sua solução utilize uma função chamada 
+#AnalisarSituacao.
 
 
 
